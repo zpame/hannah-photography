@@ -313,6 +313,10 @@ h2 em {
   object-position: center 38%;
 }
 
+.featured-photos img.senior-photo {
+  object-position: center 25%;
+}
+
 .gallery-section + .gallery-section {
   margin-top: 54px;
 }
@@ -385,6 +389,10 @@ h2 em {
 
 .photo-carousel img:nth-child(3n + 1) {
   object-position: center 38%;
+}
+
+.photo-carousel.senior-carousel img {
+  object-position: center 25%;
 }
 
 .contact {
