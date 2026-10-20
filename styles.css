@@ -395,6 +395,18 @@ h2 em {
   object-position: center 25%;
 }
 
+.photo-carousel img.sports-portrait {
+  object-position: center 15%;
+}
+
+.photo-carousel img.sports-runner {
+  object-position: center 35%;
+}
+
+.photo-carousel img.family-first {
+  object-position: center 20%;
+}
+
 .contact {
   display: grid;
   grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
